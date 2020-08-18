@@ -2,7 +2,7 @@
 title: "cars"
 author: "Andrew Almonte"
 date: "18/08/2020"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
